@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on completing a Javascript course on Free Code Camp
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects 
-- 🤔 I’m looking for help with learning Javascript, 
+- 🤔 I’m looking for help with learning Javascript, Python and React 
 - 💬 Ask me about dog training, car mechanics, and music production
 - 📫 How to reach me: send me a message on Github
 - 😄 Pronouns: he/him, they/them
